@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
