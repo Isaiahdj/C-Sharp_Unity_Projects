@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.genruntimeconfig.cache
