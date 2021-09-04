@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.genruntimeconfig.cache
