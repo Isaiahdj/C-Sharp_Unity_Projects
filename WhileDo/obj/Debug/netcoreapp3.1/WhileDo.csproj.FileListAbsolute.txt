@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.genruntimeconfig.cache
