@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.genruntimeconfig.cache
