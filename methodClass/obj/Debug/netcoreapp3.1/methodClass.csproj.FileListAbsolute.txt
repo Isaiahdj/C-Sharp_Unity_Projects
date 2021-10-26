@@ -1,0 +1,12 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\obj\Debug\netcoreapp3.1\methodClass.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\obj\Debug\netcoreapp3.1\methodClass.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\obj\Debug\netcoreapp3.1\methodClass.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\bin\Debug\netcoreapp3.1\methodClass.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\bin\Debug\netcoreapp3.1\methodClass.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\bin\Debug\netcoreapp3.1\methodClass.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\bin\Debug\netcoreapp3.1\methodClass.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\bin\Debug\netcoreapp3.1\methodClass.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\bin\Debug\netcoreapp3.1\methodClass.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\obj\Debug\netcoreapp3.1\methodClass.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\obj\Debug\netcoreapp3.1\methodClass.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\methodClass\obj\Debug\netcoreapp3.1\methodClass.genruntimeconfig.cache
