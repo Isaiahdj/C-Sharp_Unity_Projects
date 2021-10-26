@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
