@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\bin\Debug\netcoreapp3.1\Itterations.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\bin\Debug\netcoreapp3.1\Itterations.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\bin\Debug\netcoreapp3.1\Itterations.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\bin\Debug\netcoreapp3.1\Itterations.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\bin\Debug\netcoreapp3.1\Itterations.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\bin\Debug\netcoreapp3.1\Itterations.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.genruntimeconfig.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\Itterations\obj\Debug\netcoreapp3.1\Itterations.csproj.AssemblyReference.cache
