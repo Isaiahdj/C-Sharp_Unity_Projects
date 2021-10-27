@@ -10,7 +10,7 @@ namespace optionalParamater
     {
         public int opMath(int userNum, int userNum2 = 3)
         {
-            int ans = userNum * userNum2; //Operator for answer1
+            int ans = userNum * userNum2; 
             return ans;
         }
 
