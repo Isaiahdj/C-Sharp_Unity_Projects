@@ -11,7 +11,7 @@ namespace methodClass
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.WriteLine("Im going to ask you for a number then i will do some math on that number and print it out to you");
+            Console.WriteLine("Im going to ask you for a number then I will do some math on that number and print it out to you");
         number:
             try
             {
