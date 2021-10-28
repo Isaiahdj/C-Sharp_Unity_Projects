@@ -1,0 +1,13 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.genruntimeconfig.cache
