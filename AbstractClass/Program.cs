@@ -16,7 +16,8 @@ namespace AbstractClass
             employee.LastName = "Student";
             //call method
             employee.SayName();
-            employee.Quit();
+            IQuittable eQuit = new Employee();
+            eQuit.Quit();
             Console.ReadLine();
         }
     }
