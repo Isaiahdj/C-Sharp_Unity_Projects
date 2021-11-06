@@ -16,6 +16,7 @@ namespace AbstractClass
             employee.LastName = "Student";
             //call method
             employee.SayName();
+            employee.Quit();
             Console.ReadLine();
         }
     }
