@@ -8,6 +8,8 @@ namespace AbstractClass
 {
     public class Employee : Person, IQuittable
     {
+        public int eID { get; set; }
+
         public override void SayName()
         {
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
@@ -16,6 +18,35 @@ namespace AbstractClass
         public void Quit()
         {
             Console.WriteLine("This employee quit");
+        }
+
+        public static bool operator == (Employee one, Employee two)
+        {
+            if (one.eID == two.eID)
+            {
+                Console.WriteLine("The ID's are the same");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("The ID's are different.");
+                return false;
+            }
+
+        }
+
+        public static bool operator != (Employee one, Employee two)
+        {
+            if (one.eID == two.eID)
+            {
+                Console.WriteLine("The ID's are the same");
+                return false;
+            }
+            else
+            {
+                Console.WriteLine("The ID's are different.");
+                return true;
+            }
         }
     }
 }
