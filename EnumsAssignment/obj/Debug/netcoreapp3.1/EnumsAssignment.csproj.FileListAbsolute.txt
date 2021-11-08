@@ -1,0 +1,12 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.genruntimeconfig.cache
