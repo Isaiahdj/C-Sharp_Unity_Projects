@@ -1,0 +1,12 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache

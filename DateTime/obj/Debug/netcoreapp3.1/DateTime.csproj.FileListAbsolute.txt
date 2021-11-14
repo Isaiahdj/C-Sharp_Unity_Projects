@@ -1,0 +1,4 @@
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.AssemblyReference.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\15038\Documents\GitHub\C-Sharp_Unity_Projects\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
